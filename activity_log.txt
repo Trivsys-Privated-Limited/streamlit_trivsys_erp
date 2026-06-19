@@ -1,0 +1,698 @@
+Sale Made: Total Amount = $0.00
+Sale Made: Total Amount = $201.00
+Sale Made: Total Amount = $201.00
+Sale Made: Total Amount = $0.00
+Sale Made: Total Amount = $0.00
+Sale Made: Total Amount = $0.00
+Sale Made: Total Amount = $201.00
+Sale Made: Total Amount = $201.00
+Sale Made: Total Amount = $0.00
+Sale Made: Total Amount = $0.00
+Sale Made: Total Amount = $0.00
+Sale Made: Total Amount = $201.00
+Sale Made: Total Amount = $201.00
+Sale Made: Total Amount = $0.00
+Sale Made: Total Amount = $0.00
+Sale Made: Total Amount = $402.00
+Sale Made: Total Amount = $402.00
+Sale Made: Total Amount = $402.00
+Updated Stock for Milk Bottle -1 ltr: New Stock = 100
+Sale Made: Total Amount = $301.00
+2025-02-11 23:33:09 - Sale Made: Total Amount = $301.00
+2025-02-11 23:37:59 - Sale Made: Total Amount = $401.00
+2025-02-11 23:39:51 - Sale Made: Total Amount = $750.00
+2025-02-11 23:43:48 - Sale Made: Total Amount = $401.00
+2025-02-11 23:44:47 - Sale Made: Total Amount = $200.00
+2025-02-11 23:46:18 - Sale Made: Total Amount = $200.00
+2025-02-11 23:47:31 - Updated Stock for Bananas: New Stock = 94
+2025-02-11 23:49:11 - Deleted product: Iphone 7
+2025-02-11 23:49:13 - Deleted product: Iphone 7
+2025-02-20 18:05:52 - Sale Made: Total Amount = $201.00
+2025-02-20 18:07:32 - Updated Stock for Cheese: New Stock = 100
+2025-02-24 20:11:40 - Sale Made: Total Amount = $1650.00
+2025-02-24 20:12:03 - Updated Stock for Apple: New Stock = 100
+2025-02-24 21:48:33 - Synced inventory from Shopify
+2025-02-24 21:48:47 - Synced inventory from Shopify
+2025-02-24 21:49:38 - Synced inventory from Shopify
+2025-02-24 21:49:39 - Synced products to Shopify
+2025-02-24 21:50:15 - Synced inventory from Shopify
+2025-02-24 21:50:15 - Synced inventory from Shopify
+2025-02-24 21:50:16 - Synced inventory from Shopify
+2025-02-24 21:50:16 - Synced inventory from Shopify
+2025-02-24 21:50:17 - Synced inventory from Shopify
+2025-02-24 21:50:17 - Synced products to Shopify
+2025-02-24 21:50:17 - Synced products to Shopify
+2025-02-24 21:50:18 - Synced products to Shopify
+2025-02-24 21:50:18 - Synced products to Shopify
+2025-02-24 21:50:19 - Synced inventory from Shopify
+2025-02-24 21:50:19 - Synced inventory from Shopify
+2025-02-24 21:50:20 - Synced inventory from Shopify
+2025-02-24 21:50:20 - Synced inventory from Shopify
+2025-02-24 21:50:20 - Synced inventory from Shopify
+2025-02-24 21:50:42 - Synced inventory from Shopify
+2025-02-24 21:56:13 - Synced inventory from Shopify
+2025-02-24 21:56:14 - Synced products to Shopify
+2025-02-24 21:57:07 - Synced inventory from Shopify
+2025-02-24 21:57:08 - Synced products to Shopify
+2025-02-24 21:57:09 - Synced inventory from Shopify
+2025-02-24 21:57:18 - Synced inventory from Shopify
+2025-02-24 21:58:02 - Synced inventory from Shopify
+2025-02-24 21:58:03 - Synced products to Shopify
+2025-02-24 21:58:39 - Synced inventory from Shopify
+2025-02-24 21:59:01 - Synced inventory from Shopify
+2025-02-24 21:59:08 - Synced inventory from Shopify
+2025-02-24 22:02:55 - Synced inventory from Shopify
+2025-02-24 22:06:34 - Synced inventory from Shopify
+2025-02-24 22:26:39 - Synced inventory from Shopify
+2025-02-24 22:29:19 - Synced inventory from Shopify
+2025-02-24 22:30:25 - Synced inventory from Shopify
+2025-02-24 22:31:34 - Synced inventory from Shopify
+2025-02-24 22:31:37 - Synced products to Shopify
+2025-02-24 22:31:50 - Synced products to Shopify
+2025-02-24 22:31:58 - Synced inventory from Shopify
+2025-02-24 22:32:16 - Synced inventory from Shopify
+2025-02-24 22:32:45 - Synced products to Shopify
+2025-02-24 22:33:59 - Synced inventory from Shopify
+2025-02-24 22:34:03 - Synced products to Shopify
+2025-02-24 22:35:17 - Synced inventory from Shopify
+2025-02-24 22:35:19 - Synced products to Shopify
+2025-02-24 22:35:26 - Synced products to Shopify
+2025-02-24 22:37:16 - Synced inventory from Shopify
+2025-02-24 22:37:19 - Synced products to Shopify
+2025-02-24 22:39:55 - Synced inventory from Shopify
+2025-02-24 22:39:57 - Synced products to Shopify
+2025-02-24 22:40:18 - Synced products to Shopify
+2025-02-24 22:41:03 - Synced inventory from Shopify
+2025-02-24 22:41:05 - Synced products to Shopify
+2025-02-24 22:41:47 - Synced products to Shopify
+2025-02-24 22:42:32 - Synced products to Shopify
+2025-02-24 22:44:05 - Synced products to Shopify
+2025-02-24 22:45:10 - Synced products to Shopify
+2025-02-24 22:55:09 - Synced products to Shopify
+2025-02-24 22:55:48 - Synced products to Shopify
+2025-02-24 22:56:00 - Synced products to Shopify
+2025-02-24 23:03:11 - Synced products to Shopify
+2025-02-24 23:04:13 - Synced products to Shopify
+2025-02-24 23:04:33 - Synced products to Shopify
+2025-02-24 23:05:15 - Updated Stock for Milk Bottle -1 ltr: New Stock = 100
+2025-02-24 23:09:35 - Updated Stock for Milk: New Stock = 100
+2025-02-24 23:09:57 - Updated Stock for Milk 1 litre: New Stock = 100
+2025-02-24 23:10:29 - Updated Stock for Milk(1-litre): New Stock = 100
+2025-02-24 23:11:20 - Synced inventory from Shopify
+2025-02-24 23:12:12 - Added new product: 24 Feb product
+2025-02-24 23:12:15 - Added new product: 24 Feb product
+2025-02-24 23:12:39 - Deleted product: 24 Feb product
+2025-02-24 23:15:42 - Updated Stock for 24 Feb product: New Stock = 50
+2025-02-24 23:17:23 - Updated Stock for 24 Feb product: New Stock = 50
+2025-02-24 23:18:17 - Updated Stock for 24 Feb product: New Stock = 50
+2025-02-24 23:20:07 - Updated Stock for 24 Feb product: New Stock = 50
+2025-02-24 23:21:56 - Synced inventory from Shopify
+2025-02-24 23:22:17 - Synced inventory from Shopify
+2025-02-25 15:16:15 - Synced products to Shopify
+2025-02-25 15:16:43 - Synced inventory from Shopify
+2025-02-25 15:18:14 - Synced products to Shopify
+2025-02-25 15:18:46 - Synced inventory from Shopify
+2025-02-25 15:21:04 - Updated Stock for Ashiq Product: New Stock = 35
+2025-02-25 15:22:01 - Synced products to Shopify
+2025-02-25 15:22:21 - Updated Stock for Ashiq Product: New Stock = 35
+2025-02-25 15:22:44 - Synced inventory from Shopify
+2025-02-25 15:58:34 - Synced products to Shopify
+2025-02-25 16:00:16 - Synced products to Shopify
+2025-02-25 16:04:37 - Updated Stock for Ashiq Product: New Stock = 35
+2025-02-25 16:05:03 - Synced inventory from Shopify
+2025-02-25 16:15:24 - Deleted product: Ashiq Product
+2025-02-25 16:15:31 - Deleted product: Ashiq Product
+2025-02-25 16:15:35 - Deleted product: Muhammad Product
+2025-02-25 16:15:57 - Deleted product: gym
+2025-02-25 16:16:02 - Deleted product: note50 ultra
+2025-02-25 16:16:05 - Deleted product: pepsiiii
+2025-02-25 16:16:15 - Deleted product: saaad bhaaaiii
+2025-02-25 16:16:18 - Deleted product: testinggg producttt 11 feb
+2025-02-25 16:16:21 - Deleted product: wahabbb productt for testinggggg
+2025-02-25 16:16:25 - Deleted product: 9th product
+2025-02-25 16:17:02 - Synced products to Shopify
+2025-02-25 16:17:56 - Updated Stock for pepsiiii: New Stock = 25
+2025-02-25 16:18:15 - Synced inventory from Shopify
+2025-02-25 16:19:22 - Updated Stock for Ashiq Product: New Stock = 1000
+2025-02-25 16:19:46 - Synced inventory from Shopify
+2025-02-25 16:27:31 - Synced inventory from Shopify
+2025-02-25 16:29:09 - Synced inventory from Shopify
+2025-02-25 16:30:14 - Synced inventory from Shopify
+2025-02-25 16:32:21 - Synced inventory from Shopify
+2025-02-25 16:34:14 - Synced inventory from Shopify
+2025-02-25 16:35:18 - Updated Stock for Ashiq Product: New Stock = 1000
+2025-02-25 16:35:48 - Synced inventory from Shopify
+2025-02-25 16:37:26 - Synced inventory from Shopify
+2025-02-25 16:37:57 - Updated Stock for Ashiq Product: New Stock = 1000
+2025-02-25 16:38:18 - Synced inventory from Shopify
+2025-02-25 16:39:17 - Updated Stock for Ashiq Product: New Stock = 1000
+2025-02-25 16:40:54 - Synced inventory from Shopify
+2025-02-25 16:43:25 - Synced inventory from Shopify
+2025-02-25 16:47:59 - Synced products to Shopify
+2025-02-25 17:30:21 - Sent WhatsApp message to +923353686239
+2025-02-25 17:40:08 - Sent WhatsApp message to +923353686239
+2025-02-25 17:54:20 - Sent WhatsApp message to +923353686239
+2025-02-25 17:54:54 - Sent WhatsApp message to +92 326 3661565
+2025-02-25 17:55:19 - Sent WhatsApp message to +92 331 3832471
+2025-02-25 17:58:10 - Sent WhatsApp message to +92 331 3832471
+2025-02-25 18:06:28 - Sent WhatsApp message to +92 334 1671320
+2025-02-25 18:06:38 - Sent WhatsApp message to +92 334 1671320 +923353686239
+2025-02-25 18:06:52 - Sent WhatsApp message to +92 334 1671320+923353686239
+2025-02-25 18:16:22 - Sent WhatsApp message to +923353686239
+2025-02-25 18:24:25 - Sent WhatsApp message to Ashiq
+2025-02-25 18:24:36 - Sent WhatsApp message to wahab
+2025-02-25 19:18:01 - Sent WhatsApp message to ashiq
+2025-02-25 19:22:57 - Sent WhatsApp message to wahab
+2025-02-25 19:24:54 - Sent WhatsApp message to Abdul Wahab
+2025-02-25 19:28:20 - Sent WhatsApp message to +923353686239
+2025-02-25 19:30:06 - Sent WhatsApp message to wahab
+2025-02-25 20:31:26 - Sent WhatsApp message to +923353686239
+2025-02-25 20:32:33 - Executed fetch_employees function
+2025-02-25 20:32:36 - Executed fetch_whatsapp_logs function
+2025-02-25 20:32:45 - Executed whatsapp_page function
+2025-03-03 12:44:19 - Deleted category: General
+2025-03-03 12:48:53 - Deleted category: 24 feb product.jpg
+2025-03-03 12:50:07 - Deleted category: 24 feb product.jpg
+2025-03-03 12:50:46 - Deleted category: 24 feb product.jpg
+2025-03-03 12:51:36 - Deleted category: 24 feb product.jpg
+2025-03-03 12:51:55 - Added new category: ashiq
+2025-03-03 12:52:03 - Deleted category: ashiq
+2025-03-03 12:53:37 - Added new category: bilal
+2025-03-03 12:53:46 - Deleted category: bilal
+2025-03-03 12:55:55 - Added new category: Apple
+2025-03-03 12:56:02 - Deleted category: Apple
+2025-03-03 13:02:22 - Added new category: Clothes
+2025-03-04 16:44:50 - Sale Made: Total Amount = $300.00
+2025-03-05 10:58:58 - Deleted category: 24 feb product.jpg
+2025-03-05 11:37:26 - Sale Made: Total Amount = Rs.1350.00
+2025-03-12 13:26:09 - Added new product: daniyal
+2025-03-12 13:26:44 - Added new product: Daniyal
+2025-03-12 13:26:45 - Added new product: Daniyal
+2025-03-12 13:27:32 - Added new product: dani
+2025-03-12 13:27:33 - Added new product: dani
+2025-03-12 13:27:42 - Added new product: dani
+2025-03-12 13:43:38 - Deleted product: Daniyal
+2025-03-12 13:43:52 - Deleted product: Daniyal
+2025-03-12 13:43:55 - Deleted product: dani
+2025-03-12 13:43:58 - Deleted product: dani
+2025-03-12 13:44:01 - Deleted product: dani
+2025-03-12 13:44:25 - Deleted product: dani
+2025-03-12 13:44:29 - Deleted product: dani
+2025-03-12 13:47:28 - Deleted product: dani
+2025-03-12 13:47:51 - Deleted product: Daniyal
+2025-03-12 13:48:02 - Deleted product: daniyal
+2025-03-12 13:48:18 - Deleted category: dani.jpg
+2025-03-12 13:48:25 - Deleted category: daniyal.jpg
+2025-03-12 13:58:05 - Deleted product: wahabbb productt for testinggggg
+2025-03-12 14:01:14 - Deleted product: testinggg producttt 11 feb
+2025-03-12 14:01:45 - Deleted product: saaad bhaaaiii
+2025-03-12 14:05:05 - Added new product: Ashiq
+2025-03-12 14:10:41 - Deleted product: Ashiq
+2025-03-12 14:11:40 - Added new product: Ashiq in category 'Shopify'
+2025-03-12 14:12:01 - Deleted category: ashiq.jpg
+2025-03-12 14:20:08 - Deleted product: Ashiq
+2025-03-12 14:33:41 - Synced products to Shopify
+2025-03-12 14:33:47 - Synced inventory from Shopify
+2025-03-12 14:36:55 - Synced products to Shopify
+2025-03-12 14:40:34 - Synced products to Shopify
+2025-03-12 14:40:40 - Synced inventory from Shopify
+2025-03-12 14:42:15 - Synced inventory from Shopify
+2025-03-21 12:44:52 - Deleted product: ashiq
+2025-03-21 12:44:55 - Deleted product: wahab
+2025-03-21 13:00:47 - Sale Made: Total Amount = Rs.815.00
+2025-03-21 13:02:24 - Deleted product: wahab
+2025-03-21 13:05:05 - Deleted product: ali
+2025-03-21 13:05:08 - Deleted product: ali
+2025-03-21 13:05:10 - Deleted product: mansoor
+2025-03-21 13:09:25 - Deleted product: ali
+2025-03-21 13:09:27 - Deleted product: mansoor
+2025-03-21 13:12:05 - Deleted product: ali
+2025-03-21 13:12:08 - Deleted product: mansoor
+2025-03-21 13:12:57 - Deleted product: ali
+2025-03-21 13:13:00 - Deleted product: mansoor
+2025-03-21 14:05:44 - Deleted product: ali
+2025-03-21 14:05:57 - Deleted product: mansoor
+2025-03-21 14:15:30 - Sale Made: Total Amount = Rs.600.00
+2025-03-21 15:55:31 - Sale Made: Total Amount = Rs.200.00
+2025-03-21 16:40:09 - Sale Made: Total Amount = Rs.301.00
+2025-03-21 16:40:32 - Sale Made: Total Amount = Rs.401.00
+2025-03-21 17:01:46 - Sale Made: Total Amount = Rs.700.00
+2025-03-21 17:02:04 - Sale Made: Total Amount = Rs.900.00
+2025-03-21 17:02:13 - Sale Made: Total Amount = Rs.900.00
+2025-03-24 13:10:44 - Sale Made: Total Amount = Rs.551.00
+2025-03-24 13:19:12 - Sale Made: Total Amount = Rs.804.00
+2025-03-24 13:23:47 - Sale Made: Total Amount = Rs.551.00
+2025-03-24 13:28:15 - Sale Made: Total Amount = Rs.551.00
+2025-03-24 13:29:14 - Sale Made: Total Amount = Rs.201.00
+2025-03-24 13:30:00 - Sale Made: Total Amount = Rs.3995.00
+2025-03-24 14:11:16 - Added new category: ashiq
+2025-03-24 14:11:22 - Deleted category: ashiq
+2025-03-24 15:24:00 - Added new product: assssshhhh in category 'Edible Oil'
+2025-03-24 15:24:13 - Added new product: assssshhhh in category 'Edible Oil'
+2025-03-24 15:24:33 - Deleted product: assssshhhh
+2025-03-24 16:03:07 - Sale Made: Total Amount = Rs.1200.00
+2025-03-24 16:03:33 - Sale Made: Total Amount = Rs.600.00
+2025-03-24 16:09:24 - Sale Made: Total Amount = Rs.100.00
+2025-03-24 16:26:10 - Sale Made: Total Amount = Rs.201.00
+2025-03-24 16:56:04 - Deleted product: assssshhhh
+2025-03-24 16:56:25 - Added new product: assssshhhh in category 'Fruits'
+2025-03-25 11:43:38 - Sale Made: Final Amount = Rs.135.00 (Discount: Rs.15.00)
+2025-03-25 11:46:17 - Sale Made: Final Amount = Rs.90.00 (Discount: Rs.10.00)
+2025-03-25 13:22:12 - Sale Made: Final Amount = Rs.58500.00 (Discount: Rs.6500.00)
+2025-03-25 13:34:19 - Deleted product: assssshhhh
+2025-03-25 13:37:15 - Sale Made: Final Amount = Rs.491.96 (Discount: Rs.10.04)
+2025-04-03 17:49:49 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-04 15:25:36 - Sale Made: Final Amount = Rs.603.00 (Discount: Rs.0.00)
+2025-04-04 18:18:11 - Sale Made: Final Amount = Rs.801.00 (Discount: Rs.0.00)
+2025-04-04 18:25:24 - Sale Made: Final Amount = Rs.600.00 (Discount: Rs.0.00)
+2025-04-04 18:27:15 - Sale Made: Final Amount = Rs.301.00 (Discount: Rs.0.00)
+2025-04-04 18:27:48 - Sale Made: Final Amount = Rs.301.00 (Discount: Rs.0.00)
+2025-04-04 18:29:48 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-04 18:50:05 - Sale Made: Final Amount = Rs.201.00 (Discount: Rs.0.00)
+2025-04-04 18:50:22 - Sale Made: Final Amount = Rs.301.00 (Discount: Rs.0.00)
+2025-04-04 18:59:10 - Sale Made: Final Amount = Rs.30100.00 (Discount: Rs.0.00)
+2025-04-04 19:24:38 - Sale Made: Final Amount = Rs.654905.00 (Discount: Rs.0.00)
+2025-04-04 19:25:42 - Sale Made: Final Amount = Rs.520000.00 (Discount: Rs.0.00)
+2025-04-04 19:29:53 - Sale Made: Final Amount = Rs.400.00 (Discount: Rs.0.00)
+2025-04-04 19:34:04 - Sale Made: Final Amount = Rs.800.00 (Discount: Rs.0.00)
+2025-04-04 19:44:40 - Sale Made: Final Amount = Rs.2000.00 (Discount: Rs.0.00)
+2025-04-04 20:03:39 - Sale Made: Final Amount = Rs.2900.00 (Discount: Rs.0.00)
+2025-04-04 20:08:39 - Sale Made: Final Amount = Rs.200.00 (Discount: Rs.0.00)
+2025-04-04 20:20:32 - Sale Made: Final Amount = Rs.4050.00 (Discount: Rs.450.00)
+2025-04-04 20:36:59 - Sale Made: Final Amount = Rs.601.00 (Discount: Rs.0.00)
+2025-04-04 20:52:54 - Sale Made: Final Amount = Rs.200.00 (Discount: Rs.0.00)
+2025-04-04 20:55:07 - Sale Made: Final Amount = Rs.2609.00 (Discount: Rs.0.00)
+2025-04-07 20:06:54 - Sale Made: Final Amount = Rs.1917.00 (Discount: Rs.213.00)
+2025-04-07 20:16:45 - Added new product: disposable puff bar in category 'Clothes'
+2025-04-08 15:08:38 - Sale Made: Final Amount = Rs.2999.00 (Discount: Rs.0.00)
+2025-04-08 17:47:25 - Sale Made: Final Amount = Rs.100.00 (Discount: Rs.0.00)
+2025-04-09 13:32:52 - Added new product: New product 9 april in category 'mobiles'
+2025-04-09 14:03:34 - Sale Made: Final Amount = Rs.500.00 (Discount: Rs.0.00)
+2025-04-09 14:29:06 - Sale Made: Final Amount = Rs.201.00 (Discount: Rs.0.00)
+2025-04-09 14:34:47 - Sale Made: Final Amount = Rs.100.00 (Discount: Rs.0.00)
+2025-04-09 15:25:32 - Sale Made: Final Amount = Rs.100.00 (Discount: Rs.0.00)
+2025-04-09 15:56:17 - Sale Made: Final Amount = Rs.100.00 (Discount: Rs.0.00)
+2025-04-09 16:22:24 - Sale Made: Final Amount = Rs.201.00 (Discount: Rs.0.00)
+2025-04-09 16:25:07 - Sale Made: Final Amount = Rs.789456.00 (Discount: Rs.0.00)
+2025-04-09 17:03:24 - Sale Made: Final Amount = Rs.100.00 (Discount: Rs.0.00)
+2025-04-10 14:03:56 - Sale Made: Final Amount = Rs.201.00 (Discount: Rs.0.00)
+2025-04-10 14:42:15 - Sale Made: Final Amount = Rs.789456.00 (Discount: Rs.0.00)
+2025-04-10 15:54:33 - Sale Made: Final Amount = Rs.20100.00 (Discount: Rs.0.00)
+2025-04-10 16:14:45 - Sale Made: Final Amount = Rs.4736736.00 (Discount: Rs.0.00)
+2025-04-14 16:45:38 - Sale Made: Final Amount = Rs.200.00 (Discount: Rs.0.00)
+2025-04-14 17:00:57 - Sale Made: Final Amount = Rs.500.00 (Discount: Rs.0.00)
+2025-04-14 17:45:50 - Sale Made: Final Amount = Rs.2105.00 (Discount: Rs.0.00)
+2025-04-15 19:16:54 - Sale Made: Final Amount = Rs.401.00 (Discount: Rs.0.00)
+2025-04-15 19:17:27 - Sale Made: Final Amount = Rs.100.00 (Discount: Rs.0.00)
+2025-04-15 19:36:23 - Sale Made: Final Amount = Rs.600.00 (Discount: Rs.0.00)
+2025-04-15 19:41:29 - Sale Made: Final Amount = Rs.1151.00 (Discount: Rs.0.00)
+2025-04-15 19:44:56 - Sale Made: Final Amount = Rs.2159.00 (Discount: Rs.0.00)
+2025-04-15 19:48:46 - Sale Made: Final Amount = Rs.651.00 (Discount: Rs.0.00)
+2025-04-15 19:50:04 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 20:03:48 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 20:05:01 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 20:07:12 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 20:08:29 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 20:19:40 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 20:23:49 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 20:27:57 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 20:31:06 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 20:39:07 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 20:40:58 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 20:44:09 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 20:44:39 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 20:46:34 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 20:47:45 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 20:48:51 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 20:49:41 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 20:54:16 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 20:58:34 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 21:01:25 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 21:17:22 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 21:28:23 - Sale Made: Final Amount = Rs.901.00 (Discount: Rs.0.00)
+2025-04-15 21:40:36 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 21:41:24 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 21:44:58 - Sale Made: Final Amount = Rs.401.00 (Discount: Rs.0.00)
+2025-04-15 21:47:18 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-15 21:54:05 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-16 14:39:12 - Sale Made: Final Amount = Rs.690.00 (Discount: Rs.0.00)
+2025-04-16 14:45:58 - Sale Made: Final Amount = Rs.720.00 (Discount: Rs.0.00)
+2025-04-16 16:02:02 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-16 18:19:48 - Sale Made: Final Amount = Rs.4020.00 (Discount: Rs.0.00)
+2025-04-16 20:04:53 - Sale Made: Final Amount = Rs.750.00 (Discount: Rs.0.00)
+2025-04-16 20:05:55 - Sale Made: Final Amount = Rs.750.00 (Discount: Rs.0.00)
+2025-04-16 20:13:00 - Sale Made: Final Amount = Rs.950.00 (Discount: Rs.0.00)
+2025-04-16 20:13:42 - Sale Made: Final Amount = Rs.6798.00 (Discount: Rs.0.00)
+2025-04-16 20:25:44 - Sale Made: Final Amount = Rs.1470.00 (Discount: Rs.0.00)
+2025-04-16 20:29:19 - Sale Made: Final Amount = Rs.1150.00 (Discount: Rs.0.00)
+2025-04-16 20:30:16 - Sale Made: Final Amount = Rs.1570.00 (Discount: Rs.0.00)
+2025-04-16 20:33:49 - Sale Made: Final Amount = Rs.1700.00 (Discount: Rs.0.00)
+2025-04-16 20:35:28 - Sale Made: Final Amount = Rs.3200.00 (Discount: Rs.0.00)
+2025-04-16 20:42:25 - Sale Made: Final Amount = Rs.1250.00 (Discount: Rs.0.00)
+2025-04-16 20:52:03 - Sale Made: Final Amount = Rs.350.00 (Discount: Rs.0.00)
+2025-04-16 20:53:18 - Sale Made: Final Amount = Rs.100.00 (Discount: Rs.0.00)
+2025-04-16 20:54:16 - Sale Made: Final Amount = Rs.100.00 (Discount: Rs.0.00)
+2025-04-16 20:56:50 - Sale Made: Final Amount = Rs.1700.00 (Discount: Rs.0.00)
+2025-04-16 21:17:40 - Sale Made: Final Amount = Rs.350.00 (Discount: Rs.0.00)
+2025-04-16 21:18:58 - Sale Made: Final Amount = Rs.450.00 (Discount: Rs.0.00)
+2025-04-16 21:19:15 - Sale Made: Final Amount = Rs.450.00 (Discount: Rs.0.00)
+2025-04-16 21:19:34 - Sale Made: Final Amount = Rs.350.00 (Discount: Rs.0.00)
+2025-04-16 21:20:17 - Sale Made: Final Amount = Rs.150.00 (Discount: Rs.0.00)
+2025-04-16 21:22:46 - Sale Made: Final Amount = Rs.300.00 (Discount: Rs.0.00)
+2025-04-16 21:23:19 - Sale Made: Final Amount = Rs.700.00 (Discount: Rs.0.00)
+2025-04-16 21:24:48 - Sale Made: Final Amount = Rs.200.00 (Discount: Rs.0.00)
+2025-04-16 21:39:03 - Sale Made: Final Amount = Rs.400.00 (Discount: Rs.0.00)
+2025-04-16 21:44:53 - Sale Made: Final Amount = Rs.2250.00 (Discount: Rs.0.00)
+2025-04-17 16:24:47 - Sale Made: Final Amount = Rs.1578912.00 (Discount: Rs.0.00)
+2025-04-17 16:51:55 - Sale Made: Final Amount = Rs.142933.00 (Discount: Rs.0.00)
+2025-04-17 19:20:21 - Sale Made: Final Amount = Rs.450.00 (Discount: Rs.0.00)
+2025-04-18 19:18:24 - Sale Made: Final Amount = Rs.5500.00 (Discount: Rs.0.00)
+2025-04-18 20:20:04 - Sale Made: Final Amount = Rs.428960.00 (Discount: Rs.0.00)
+2025-04-18 20:46:16 - Sale Made: Final Amount = Rs.760.00 (Discount: Rs.0.00)
+2025-04-18 20:53:46 - Sale Made: Final Amount = Rs.7000.00 (Discount: Rs.400.00)
+2025-04-21 15:12:29 - Sale Made: Final Amount = Rs.400.00 (Discount: Rs.0.00)
+2025-04-21 15:48:01 - Added new product: Yogurt in category 'Dairy'
+2025-04-21 16:03:41 - Sale Made: Final Amount = Rs.2400.00 (Discount: Rs.39.00)
+2025-04-21 16:33:45 - Deleted product: Yogurt - half kg
+2025-04-21 16:44:04 - Added new product: Yogurt - 1/2 kg in category 'Dairy'
+2025-04-21 16:44:18 - Deleted product: Yogurt - 1/2 kg
+2025-04-21 16:45:08 - Added new product: Yogurt - 1/2 kg in category 'Dairy'
+2025-04-21 17:15:30 - Deleted product: Yogurt - 1/2 kg
+2025-04-21 17:15:54 - Added new product: Yogurt 1/2 kg in category 'Dairy'
+2025-04-21 17:19:02 - Deleted product: Yogurt 1/2 kg
+2025-04-21 17:19:36 - Added new product: Yogurt 1/2 kg in category 'Dairy'
+2025-04-21 17:31:55 - Deleted product: Yogurt - half kg
+2025-04-21 17:32:31 - Added new product: Yogurt - 1/2 kg in category 'Dairy'
+2025-04-21 17:38:09 - Deleted product: Yogurt - 1/2 kg
+2025-04-21 17:39:22 - Added new product: Yogurt - Half kg in category 'Dairy'
+2025-04-21 19:34:50 - Sale Made: Final Amount = Rs.200.00 (Discount: Rs.0.00)
+2025-04-23 18:51:37 - Added new product: TShirt - Black in category 'Clothes'
+2025-04-23 18:52:27 - Added new product: Tshirt - White in category 'Clothes'
+2025-04-23 19:30:04 - Added new product: Polo shirt in category 'Clothes'
+2025-04-23 19:35:22 - Deleted product: Polo shirt
+2025-04-23 19:51:30 - Added new product: Polo t shirt in category 'Clothes'
+2025-04-23 20:02:38 - Deleted product: Polo t shirt
+2025-04-23 20:29:52 - Added product: Polo Shirt in category 'Clothes'
+2025-04-24 15:43:59 - Sale Made: Final Amount = Rs.1100.00 (Discount: Rs.0.00)
+2025-04-24 16:29:16 - Deleted product: Polo Shirt
+2025-04-24 21:14:41 - Sale Made: Final Amount = Rs.10634.00 (Discount: Rs.0.00)
+2025-04-24 21:20:24 - Sale Made: Final Amount = Rs.1653.00 (Discount: Rs.0.00)
+2025-04-25 13:08:12 - Sale Made: Final Amount = Rs.3583.00 (Discount: Rs.0.00)
+2025-04-28 15:15:45 - Added new product: dalda banaspati in category 'Edible Oil'
+2025-04-28 15:19:46 - Deleted product: dalda banaspati
+2025-04-28 15:23:04 - Deleted product: Dalda Oil
+2025-04-28 15:23:25 - Added new product: Dalda Oil in category 'Edible Oil'
+2025-04-28 15:23:53 - Added new product: Dalda Oil in category 'Edible Oil'
+2025-04-28 15:23:56 - Added new product: Dalda Oil in category 'Edible Oil'
+2025-04-28 15:28:14 - Deleted product: Dalda Oil
+2025-04-28 15:28:16 - Deleted product: Dalda Oil
+2025-04-28 15:28:18 - Deleted product: Dalda Oil
+2025-04-28 15:36:12 - Added new product: Dalda oil in category 'Edible Oil'
+2025-04-28 15:45:17 - Deleted product: Dalda oil
+2025-04-28 15:45:38 - Added new product: Dalda oil in category 'Edible Oil'
+2025-04-28 16:06:28 - Deleted product: Dalda oil
+2025-04-28 16:07:06 - Added new product: Dalda oil in category 'Edible Oil'
+2025-04-28 16:08:01 - Deleted product: Dalda oil
+2025-04-28 16:08:37 - Added new product: Dalda oil in category 'Edible Oil'
+2025-04-28 16:54:08 - Sale Made: Final Amount = Rs.551.00 (Discount: Rs.0.00)
+2025-04-28 17:12:14 - Sale Made: Final Amount = Rs.500.00 (Discount: Rs.0.00)
+2025-04-28 17:17:58 - Sale Made: Final Amount = Rs.200.00 (Discount: Rs.0.00)
+2025-04-28 22:06:27 - Sale Made: Final Amount = Rs.500.00 (Discount: Rs.0.00)
+2025-04-29 17:39:03 - employee - Navigated to POS System
+2025-04-29 17:39:12 - employee - Navigated to POS System
+2025-04-29 17:39:13 - employee - Navigated to POS System
+2025-04-29 17:39:13 - employee - Navigated to POS System
+2025-04-29 17:39:13 - employee - Navigated to POS System
+2025-04-29 17:39:13 - employee - Navigated to POS System
+2025-04-29 17:39:13 - employee - Navigated to POS System
+2025-04-29 17:39:14 - employee - Navigated to POS System
+2025-04-29 17:39:14 - employee - Navigated to POS System
+2025-04-29 17:39:14 - employee - Navigated to POS System
+2025-04-29 17:39:14 - employee - Navigated to POS System
+2025-04-29 17:39:18 - employee - Navigated to POS System
+2025-04-29 19:12:03 - admin - Added new product: dalda in category 'Edible Oil'
+2025-04-29 19:12:25 - admin - Deleted product: dalda
+2025-04-29 19:12:51 - employee - Added new product: dalda in category 'Edible Oil'
+2025-04-29 19:13:50 - employee - Deleted product: dalda
+2025-04-30 14:05:20 - employee - Sale Made: Final Amount = Rs.600.00 (Discount: Rs.0.00)
+2025-04-30 18:02:11 - admin - Sale Made: Final Amount = Rs.2921.00 (Discount: Rs.0.00)
+2025-04-30 18:13:47 - admin - Added new product: no image in category 'Clothes'
+2025-04-30 20:49:36 - admin - Sale Made: Final Amount = Rs.521.00 (Discount: Rs.0.00)
+2025-04-30 21:20:13 - admin - Sale Made: Final Amount = Rs.401.00 (Discount: Rs.0.00)
+2025-05-01 14:35:42 - admin - Sale Made: Final Amount = Rs.1220.00 (Discount: Rs.0.00)
+2025-05-01 20:11:22 - admin - Sale Made: Final Amount = Rs.1205.00 (Discount: Rs.0.00)
+2025-05-01 20:16:05 - admin - Sale Made: Final Amount = Rs.1205.00 (Discount: Rs.0.00)
+2025-05-01 20:17:30 - admin - Sale Made: Final Amount = Rs.500.00 (Discount: Rs.0.00)
+2025-05-01 20:22:29 - admin - Sale Made: Final Amount = Rs.201.00 (Discount: Rs.0.00)
+2025-05-01 20:23:12 - admin - Sale Made: Final Amount = Rs.100.00 (Discount: Rs.0.00)
+2025-05-02 15:05:01 - admin - Sale Made: Final Amount = Rs.209424.00 (Discount: Rs.0.00)
+2025-05-02 15:34:32 - admin - Sale Made: Final Amount = Rs.207253.00 (Discount: Rs.0.00)
+2025-05-02 19:32:56 - admin - Deleted product: Sample Product
+2025-05-02 20:20:27 - admin - Deleted product: python
+2025-05-02 20:31:50 - admin - Deleted product: python
+2025-05-02 20:31:53 - admin - Deleted product: css
+2025-05-02 20:31:55 - admin - Deleted product: html
+2025-05-02 20:31:57 - admin - Deleted product: javascript
+2025-05-02 20:37:21 - admin - Deleted product: python
+2025-05-02 20:37:24 - admin - Deleted product: css
+2025-05-02 20:37:26 - admin - Deleted product: html
+2025-05-02 20:37:28 - admin - Deleted product: javascript
+2025-05-02 21:00:42 - admin - Sale Made: Final Amount = Rs.401.00 (Discount: Rs.0.00)
+2025-05-05 20:43:47 - admin - Sale Made: Final Amount = Rs.201.00 (Discount: Rs.0.00)
+2025-05-09 16:37:31 - admin - Added new category: Alla Prima
+2025-05-09 16:37:49 - admin - Added new category: Amazing
+2025-05-09 16:38:03 - admin - Added new category: Balmore
+2025-05-09 16:38:23 - admin - Added new category: Bambino
+2025-05-09 16:38:27 - admin - Added new category: Barbara
+2025-05-09 16:38:36 - admin - Added new category: BOF
+2025-05-09 16:38:41 - admin - Added new category: Border
+2025-05-09 16:38:46 - admin - Added new category: Caspia
+2025-05-09 16:38:51 - admin - Added new category: Casual Chic
+2025-05-09 16:38:57 - admin - Added new category: CD Lisbon
+2025-05-09 16:39:05 - admin - Added new category: Charleston
+2025-05-09 16:39:15 - admin - Added new category: Charleston (B)
+2025-05-09 16:39:24 - admin - Added new category: Danzo
+2025-05-09 16:39:32 - admin - Added new category: Destination
+2025-05-09 16:39:39 - admin - Added new category: Elysian
+2025-05-09 16:39:44 - admin - Added new category: Etro
+2025-05-09 16:39:49 - admin - Added new category: Factory-3
+2025-05-09 16:40:04 - admin - Added new category: Factory-4
+2025-05-09 16:40:07 - admin - Added new category: Factory-5
+2025-05-09 16:40:11 - admin - Added new category: Factory-6
+2025-05-09 16:40:15 - admin - Added new category: Factory-7
+2025-05-09 16:40:19 - admin - Added new category: Factory-8
+2025-05-09 16:40:23 - admin - Added new category: Factory-9
+2025-05-09 16:40:28 - admin - Added new category: Factory-10
+2025-05-09 16:40:32 - admin - Added new category: Factory-11
+2025-05-09 16:40:36 - admin - Added new category: Factory-12
+2025-05-09 16:40:40 - admin - Added new category: Factory-13
+2025-05-09 16:40:44 - admin - Added new category: Factory-14
+2025-05-09 16:40:52 - admin - Added new category: Factory-15
+2025-05-09 16:40:57 - admin - Added new category: Factory-16
+2025-05-09 16:41:01 - admin - Added new category: Factory-17
+2025-05-09 16:41:05 - admin - Added new category: Factory-18
+2025-05-09 16:44:48 - admin - Deleted category: Factory-4
+2025-05-09 16:44:53 - admin - Deleted category: Factory-18
+2025-05-09 16:44:57 - admin - Deleted category: Factory-17
+2025-05-09 16:45:01 - admin - Deleted category: Factory-16
+2025-05-09 16:45:05 - admin - Deleted category: Factory-15
+2025-05-09 16:45:08 - admin - Deleted category: Factory-14
+2025-05-09 16:45:12 - admin - Deleted category: Factory-13
+2025-05-09 16:45:15 - admin - Deleted category: Factory-12
+2025-05-09 16:45:18 - admin - Deleted category: Factory-11
+2025-05-09 16:45:21 - admin - Deleted category: Factory-10
+2025-05-09 16:45:24 - admin - Deleted category: Factory-9
+2025-05-09 16:45:27 - admin - Deleted category: Factory-8
+2025-05-09 16:45:30 - admin - Deleted category: Factory-7
+2025-05-09 16:45:34 - admin - Deleted category: Factory-6
+2025-05-09 16:45:37 - admin - Deleted category: Factory-5
+2025-05-09 16:53:32 - admin - Added new category: Florentine
+2025-05-09 16:53:37 - admin - Added new category: Florentine-3
+2025-05-09 16:53:43 - admin - Added new category: Freundin
+2025-05-09 16:53:48 - admin - Added new category: Globe
+2025-05-09 16:53:51 - admin - Added new category: Graziosa
+2025-05-09 16:53:56 - admin - Added new category: Kalhari
+2025-05-09 16:54:00 - admin - Added new category: Kids & Teen
+2025-05-09 16:54:06 - admin - Added new category: Kids Home
+2025-05-09 16:54:11 - admin - Added new category: KRESTSCHMER
+2025-05-09 16:54:17 - admin - Added new category: Lancaster
+2025-05-09 16:54:24 - admin - Added new category: Little Squirt
+2025-05-09 16:54:29 - admin - Added new category: Madras
+2025-05-09 16:54:34 - admin - Added new category: Mandaley
+2025-05-09 16:54:40 - admin - Added new category: MF
+2025-05-09 16:54:46 - admin - Added new category: Mod Living
+2025-05-09 16:54:51 - admin - Added new category: Moderan Foundation
+2025-05-09 16:54:56 - admin - Added new category: Modgeo
+2025-05-09 16:55:02 - admin - Added new category: New Port
+2025-05-09 16:55:07 - admin - Added new category: Nina Hankok
+2025-05-09 16:55:13 - admin - Added new category: Nova
+2025-05-09 16:55:17 - admin - Added new category: Origin
+2025-05-09 16:55:36 - admin - Added new category: Origin
+2025-05-09 16:56:00 - admin - Added new category: Passepartout
+2025-05-09 16:56:05 - admin - Added new category: Picture
+2025-05-09 16:56:10 - admin - Added new category: Playdate
+2025-05-09 16:56:14 - admin - Added new category: Playdate Adventure
+2025-05-09 16:56:20 - admin - Added new category: Poetry
+2025-05-09 16:56:25 - admin - Added new category: Poetry-2
+2025-05-09 16:56:29 - admin - Added new category: PS
+2025-05-09 16:56:33 - admin - Added new category: Purelement
+2025-05-09 16:56:39 - admin - Added new category: Skin
+2025-05-09 16:56:44 - admin - Added new category: Somi
+2025-05-09 16:56:49 - admin - Added new category: Sticker
+2025-05-09 16:56:54 - admin - Added new category: Times
+2025-05-09 16:56:58 - admin - Added new category: Villa Floora
+2025-05-09 16:57:11 - admin - Added new category: Villamar
+2025-05-09 16:57:19 - admin - Added new category: Villasiana
+2025-05-09 16:57:39 - admin - Added new category: VINCENZA
+2025-05-09 16:57:45 - admin - Added new category: Vintage Charm
+2025-05-09 16:57:50 - admin - Added new category: Work of Nature
+2025-05-09 16:57:56 - admin - Added new category: Xtrem
+2025-05-09 17:18:20 - admin - Deleted category: Origin
+2025-05-09 19:48:38 - Muhammad - Added new product: skjdnfsd in category 'General'
+2025-05-09 20:55:11 - admin - Deleted product: skjdnfsd
+2025-05-19 20:30:34 - wahab - Added new product: first product in category 'General'
+2025-05-19 20:34:52 - admin - Sale Made: Final Amount = Rs.100.00 (Discount: Rs.50.00)
+2025-05-19 21:02:36 - admin - Deleted product: 452006
+2025-05-19 21:02:39 - admin - Deleted product: first product
+2025-05-19 21:04:26 - admin - Deleted product: first product
+2025-06-23 15:49:09 - admin - Added new product: Apple in category 'General'
+2025-06-23 15:49:51 - admin - Added new product: Mango in category 'General'
+2025-06-23 15:50:13 - admin - Added new product: Oranges in category 'General'
+2025-06-23 15:53:51 - admin - Sale Made: Final Amount = Rs.1600.00 (Discount: Rs.0.00)
+2025-06-23 17:58:09 - admin - Added new product: Mango in category 'General'
+2025-06-23 17:59:53 - admin - Added new product: Carrot in category 'General'
+2025-06-23 18:00:10 - admin - Added new product: Apple in category 'General'
+2025-06-23 18:00:45 - admin - Sale Made: Final Amount = Rs.2000.00 (Discount: Rs.0.00)
+2025-06-23 18:55:43 - admin - Sale Made: Final Amount = Rs.600.00 (Discount: Rs.0.00)
+2025-06-23 20:38:39 - admin - Sale Made: Final Amount = Rs.1000.00 (Discount: Rs.0.00)
+2025-06-26 16:05:55 - admin - Added new category: FlyDubai-Economy
+2025-06-26 16:06:07 - admin - Added new category: FlyDubai-First class
+2025-06-26 16:07:18 - admin - Added new product: F-11 (Khi - Jeddah) in category 'FlyDubai-Economy'
+2025-06-26 16:10:06 - admin - Added new category: Fuits and Vegetables
+2025-06-26 17:57:41 - admin - Added new product: Sherwani - Large in category 'General'
+2025-06-26 18:04:03 - admin - Added new product: Black sherwani - medium in category 'General'
+2025-07-01 19:29:41 - admin - Navigated to POS System
+2025-07-01 19:29:51 - admin - Navigated to Sales Module
+2025-07-01 19:30:34 - admin - Navigated to WhatsApp Integration
+2025-07-01 19:30:36 - admin - Navigated to Shopify Integration
+2025-07-01 19:30:37 - admin - Navigated to WhatsApp Integration
+2025-07-01 19:30:39 - admin - Navigated to Payroll Management
+2025-07-01 19:30:43 - admin - Navigated to Payroll Management
+2025-07-01 19:30:44 - admin - Navigated to Attendance Management
+2025-07-01 19:30:47 - admin - Navigated to Order Management
+2025-07-01 19:30:50 - admin - Navigated to Attendance Management
+2025-07-01 19:30:53 - admin - Navigated to Order Management
+2025-07-01 19:30:54 - admin - Navigated to Purchase Module
+2025-07-01 19:30:57 - admin - Navigated to Credit Sales
+2025-07-01 19:31:48 - admin - Navigated to Dashboard
+2025-07-01 19:32:32 - admin - Navigated to Dashboard
+2025-07-01 19:32:36 - admin - Navigated to Inventory Management
+2025-07-01 19:33:07 - admin - Navigated to Order Management
+2025-07-01 19:33:09 - admin - Navigated to Sales Module
+2025-07-01 19:33:41 - admin - Navigated to Dashboard
+2025-07-01 19:34:21 - admin - Navigated to Dashboard
+2025-07-01 19:34:23 - admin - Navigated to POS System
+2025-07-01 19:36:09 - admin - Navigated to Shopify Integration
+2025-07-01 19:36:10 - admin - Navigated to Payroll Management
+2025-07-01 19:40:32 - admin - Navigated to POS System
+2025-07-01 19:40:34 - admin - Navigated to Inventory Management
+2025-07-01 19:40:36 - admin - Navigated to Sales Module
+2025-07-01 19:41:43 - admin - Navigated to Inventory Management
+2025-07-01 19:42:57 - admin - Navigated to WhatsApp Integration
+2025-07-01 19:42:59 - admin - Navigated to Shopify Integration
+2025-07-01 19:43:06 - admin - Navigated to Payroll Management
+2025-07-01 19:43:08 - admin - Navigated to Attendance Management
+2025-07-01 19:43:12 - admin - Navigated to Attendance Management
+2025-07-01 19:43:15 - admin - Navigated to Purchase Module
+2025-07-01 19:43:17 - admin - Navigated to Attendance Management
+2025-07-01 19:43:58 - admin - Navigated to Dashboard
+2025-07-01 19:44:42 - admin - Navigated to POS System
+2025-07-01 19:44:46 - admin - Navigated to Inventory Management
+2025-07-01 19:44:49 - admin - Navigated to Sales Module
+2025-07-01 19:46:11 - admin - Navigated to Dashboard
+2025-07-01 19:46:24 - admin - Navigated to Inventory Management
+2025-07-01 19:46:30 - admin - Navigated to Inventory Management
+2025-07-01 19:47:12 - admin - Navigated to Credit Sales
+2025-07-01 19:47:18 - admin - Navigated to Credit Sales
+2025-07-01 19:56:16 - admin - Navigated to Purchase Module
+2025-07-01 19:56:52 - admin - Navigated to Order Management
+2025-07-01 20:01:13 - admin - Navigated to Order Management
+2025-07-01 20:01:14 - admin - Navigated to Purchase Module
+2025-07-01 20:01:17 - admin - Navigated to Order Management
+2025-07-01 20:01:37 - admin - Navigated to Attendance Management
+2025-07-01 20:01:41 - admin - Navigated to Payroll Management
+2025-07-01 20:02:07 - admin - Navigated to Shopify Integration
+2025-07-01 20:02:56 - admin - Navigated to Shopify Integration
+2025-07-01 20:02:58 - admin - Navigated to WhatsApp Integration
+2025-07-01 20:03:30 - admin - Navigated to Dashboard
+2025-07-01 20:03:32 - admin - Navigated to POS System
+2025-07-01 20:12:01 - admin - Navigated to POS System
+2025-07-01 20:12:02 - admin - Navigated to Dashboard
+2025-07-01 20:12:04 - admin - Navigated to POS System
+2025-07-01 20:12:31 - admin - Navigated to Inventory Management
+2025-07-01 20:12:43 - admin - Navigated to Dashboard
+2025-07-01 20:12:44 - admin - Navigated to POS System
+2025-07-01 20:12:44 - admin - Navigated to Inventory Management
+2025-07-01 20:12:45 - admin - Navigated to Sales Module
+2025-07-01 20:12:46 - admin - Navigated to Purchase Module
+2025-07-01 20:12:47 - admin - Navigated to Order Management
+2025-07-01 20:12:48 - admin - Navigated to Attendance Management
+2025-07-01 20:12:53 - admin - Navigated to Payroll Management
+2025-07-01 20:12:54 - admin - Navigated to Shopify Integration
+2025-07-01 20:27:48 - admin - Navigated to Inventory Management
+2025-07-01 20:28:06 - admin - Navigated to Shopify Integration
+2025-07-01 20:28:08 - admin - Navigated to Attendance Management
+2025-07-01 20:28:09 - admin - Navigated to Order Management
+2025-07-01 20:28:09 - admin - Navigated to Purchase Module
+2025-07-01 20:28:10 - admin - Navigated to Credit Sales
+2025-07-01 20:28:11 - admin - Navigated to Sales Module
+2025-07-01 20:28:12 - admin - Navigated to Inventory Management
+2025-07-01 20:28:13 - admin - Navigated to Sales Module
+2025-07-01 20:28:15 - admin - Navigated to Sales Module
+2025-07-01 20:28:16 - admin - Navigated to Inventory Management
+2025-07-01 20:28:18 - admin - Navigated to Order Management
+2025-07-03 17:56:07 - admin - Deleted product: Black Sherwani - Medium
+2025-07-03 18:51:45 - admin - Added new product: suit in category 'General'
+2025-07-04 16:07:30 - admin - Added new product: shirwani fabric in category 'General'
+2025-07-22 14:13:58 - admin - Sale Made: Final Amount = Rs.50000.00 (Discount: Rs.0.00)
+2025-10-10 19:03:47 - admin - Added new product: nike air jordan in category 'General'
+2025-10-15 16:56:47 - admin - Added new product: rolex watch in category 'General'
+2025-10-23 19:49:02 - ctech - Added new product: pen in category 'General'
+2025-10-24 20:39:35 - ctech - Added new product: pen in category 'General'
+2025-10-27 17:27:59 - ctech - Added new product: wallpaper 1 in category 'General'
+2025-10-27 17:28:30 - ctech - Added new product: wallpaper 2 in category 'General'
+2025-10-27 17:28:55 - ctech - Added new product: wallpaper 3 in category 'General'
+2025-10-29 17:30:15 - mtech - Added new product: pen in category 'General'
+2025-10-29 17:44:18 - btech - Added new product: pen in category 'General'
+2025-10-30 18:02:19 - ctech - Added new product: wallpaper1 in category 'General'
+2025-10-30 18:02:31 - ctech - Added new product: wallpaper2 in category 'General'
+2025-10-30 18:30:20 - ctech - Added new product: wallpaper1 in category 'General'
+2025-10-30 18:30:28 - ctech - Added new product: wallpaper2 in category 'General'
+2025-10-31 20:22:56 - munaaf enterprise - Added new category: Lollipop
+2025-10-31 20:24:59 - munaaf enterprise - Added new product: choco lollipop in category 'Lollipop'
+2025-11-03 15:59:23 - ctech - Added new product: wallpaper1 in category 'General'
+2025-11-05 15:00:41 - ctech - Sale Made: Final Amount = Rs.100000.00
+2025-11-05 16:56:17 - ctech - Added new product: wallpaper1 in category 'General'
+2025-11-05 16:56:46 - ctech - Sale Made: Final Amount = Rs.10000.00
+2025-11-05 17:03:32 - ctech - POS Session Closed - ID: 1, Closing Cash: Rs.35000.00
+2025-11-05 17:11:33 - ctech - Sale Made: Final Amount = Rs.10000.00
+2025-11-05 17:20:36 - ctech - POS Session Closed - ID: 2, Closing Cash: Rs.10000.00
+2025-11-05 17:31:40 - ctech - POS Session Closed - ID: 3, Closing Cash: Rs.3000.00
+2025-11-05 17:31:56 - ctech - POS Session Closed - ID: 3, Closing Cash: Rs.5000.00
+2025-11-05 18:05:32 - ctech - POS Session Closed - ID: 4, Closing Cash: Rs.5000.00
+2025-11-05 18:13:08 - ctech - POS Session Closed - ID: 5, Closing Cash: Rs.50000.00
+2025-11-05 18:27:41 - ctech - POS Session Closed - ID: 6, Closing Cash: Rs.5000.00
+2025-11-06 17:42:30 - ctech - POS Session Closed - ID: 1, Closing Cash: Rs.35000.00
+2025-11-10 14:14:30 - ctech - POS Session Closed - ID: 2, Closing Cash: Rs.10000.00
+2025-11-10 17:20:43 - ctech - Added new product: wallpaper1 in category 'General'
+2025-11-19 16:13:23 - adtach - Added new product: wallpaper1 in category 'General'
+2025-11-20 19:21:01 - adtach - Added new product: wallpaper1 in category 'General'
+2025-11-20 20:12:04 - adtach - Added new product: wallpaper1 in category 'General'
+2025-12-26 17:59:19 - adtach - Added new product: lawn suit in category 'General'
+2026-01-02 19:46:29 - adtach - Added new product: pen in category 'General'
+2026-06-19 18:26:15 - Trivsys - Sale Made: Final Amount = Rs.90.00
+2026-06-19 18:47:28 - Trivsys - POS Session Closed - ID: 1, Closing Cash: Rs.600.00
+2026-06-19 19:02:05 - Trivsys - Sale Made: Final Amount = Rs.190.00
+2026-06-19 19:19:08 - Trivsys - Added new category: Sports
+2026-06-19 19:19:56 - Trivsys - Added new product: Football in category 'Sports'
+2026-06-19 19:21:18 - Trivsys - Added new category: Stationery
